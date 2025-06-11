@@ -1,0 +1,12 @@
+1 - The program should receives an string as argument.
+2 - In this string there must be patterns representing keys
+to be pressed. For example: "ga 'tui' %LSUPER %LSHIFT" where
+single letters are single keys and substrings beggining with
+percentage are special keys.
+3 - Press the corresponding keys.
+
+* I need to learn how to manipulate strings and get substrings.
+* Also a thing or two about regular expressions? Maybe...
+* I need to learn how to assign for each character a corresponding
+  keyboard key code - there are a lot, I believe...
+* And finally, I guess it should loop through the string...
